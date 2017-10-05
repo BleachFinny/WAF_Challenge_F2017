@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"xlabel\tfunction"
+			],
+			[
+				"pl",
+				"plot\tfunction"
+			],
+			[
+				"cii",
+				"cities"
+			],
+			[
+				"as",
+				"ask_ele\tfunction"
+			],
+			[
+				"op",
+				"option\tstatement"
+			],
+			[
+				"get_",
+				"get_elevation"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"quit",
+				"quit_enable\tTrue"
+			],
+			[
+				"ask",
+				"ask_long\tfunction"
+			],
+			[
+				"k",
+				"kmean_lat\tfunction"
+			],
+			[
+				"to",
+				"to_components\tfunction"
+			],
+			[
+				"de",
+				"decimals\tstatement"
+			],
+			[
+				"min",
+				"minutes\tstatement"
+			],
+			[
+				"mid",
+				"mid_point\tstatement"
+			],
+			[
+				"tu",
+				"True\tkeyword"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"mi",
+				"mid_point\tstatement"
+			],
+			[
+				"sor",
+				"sorting\tstatement"
+			],
+			[
+				"g",
+				"get_latlang\tfunction"
+			],
+			[
+				"init",
+				"init_pop\tfunction"
+			],
+			[
+				"n",
+				"next_sibling"
+			],
+			[
+				"en",
+				"encode\tfunction"
+			],
+			[
+				"tar",
+				"target_data\tparam"
+			],
+			[
+				"Dec",
+				"DecisionTreeClassifer\timport"
+			],
+			[
+				"ta",
+				"target_data\tparam"
+			],
+			[
+				"pred",
+				"predict"
+			],
+			[
+				"test_",
+				"test_target\tstatement"
+			],
+			[
+				"class",
+				"classify\tfunction"
+			],
+			[
+				"Kn",
+				"KNeighborsClassifier"
+			],
+			[
+				"im_",
+				"im_reshaped_1000\tstatement"
+			],
+			[
+				"prod",
+				"product\tfunction"
+			],
+			[
+				"dat",
+				"dataset"
+			],
+			[
+				"kmean",
+				"kmean_iter"
+			],
+			[
+				"ass",
+				"associations\tstatement"
+			],
+			[
+				"new",
+				"new_mean\tstatement"
+			],
+			[
+				"len",
+				"len\tfunction"
+			],
+			[
+				"dis",
+				"distance_to_nearest\tstatement"
+			],
+			[
+				"near",
+				"nearest_mean\tstatement"
+			],
+			[
+				"spa",
+				"spatial\tmodule"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"res",
+				"res_links\tstatement"
+			],
+			[
+				"appe",
+				"appendleft\tfunction"
+			],
+			[
+				"up",
+				"update\tfunction"
+			],
+			[
+				"all",
+				"all_emails"
+			],
+			[
+				"visit",
+				"visited\tparam"
+			],
+			[
+				"sites",
+				"sites_visted"
+			],
+			[
+				"stati",
+				"static_max\tparam"
+			],
+			[
+				"static",
+				"static_max\t50"
+			],
+			[
+				"vist",
+				"visited\tparam"
+			],
+			[
+				"ma",
+				"max_sites\t50"
+			],
+			[
+				"eamil",
+				"extract_emails\tfunction"
+			],
+			[
+				"find",
+				"finditer\tfunction"
+			],
+			[
+				"max",
+				"max_sites\tparam"
+			],
+			[
+				"fin",
+				"find_all"
+			],
+			[
+				"end",
+				"enc_dic\tstatement"
+			],
+			[
+				"it",
+				"iteritems\tfunction"
+			],
+			[
+				"dec",
+				"decoding_dic\tstatement"
+			],
+			[
+				"rs",
+				"rstrip\tfunction"
+			],
+			[
+				"In",
+				"InvalidFormatException\tclass"
+			],
+			[
+				"list",
+				"list_leibniz\tfunction"
+			],
+			[
+				"is",
+				"islice\tclass"
+			],
+			[
+				"sum",
+				"sum_primes_between\tfunction"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"set",
+				"set_of_bools\tforstmt"
+			],
+			[
+				"com",
+				"combinations_with_replacement\tclass"
+			],
+			[
+				"tot",
+				"total_kwargs\tstatement"
+			],
+			[
+				"p_",
+				"p_kwargs\tstatement"
+			],
+			[
+				"da",
+				"datetime\tclass"
+			],
+			[
+				"sorte",
+				"sorted_d"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"Te",
+				"True"
+			],
+			[
+				"sore",
+				"score"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"write",
+				"write_csv"
+			],
+			[
+				"row",
+				"row_list"
+			],
+			[
+				"fib",
+				"fib_rec"
+			],
+			[
+				"abs",
+				"abs_m"
+			],
+			[
+				"gcd",
+				"gcd_rec_component"
+			],
+			[
+				"p",
+				"python3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "loans.py",
+			"settings":
+			{
+				"buffer_size": 350,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pakc",
+		"selected_items":
+		[
+			[
+				"pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcage control ",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"SETTINGS",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"spaces ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"t",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"diabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable p",
+				"Package Control: Enable Package"
+			],
+			[
+				"disalbe",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"packaged",
+				"Package Control: Disable Package"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"mather",
+				"Material Theme: Configuration"
+			],
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ericzeng/Documents/workspace_python/wudac_waf"
+	],
+	"file_history":
+	[
+		"/Users/ericzeng/Documents/workspace_python/hw10/hw10.sublime-project",
+		"/Users/ericzeng/Documents/workspace_python/wudac_waf/waf.sublime-project",
+		"/Users/ericzeng/Downloads/hw1w_template.tex",
+		"/Users/ericzeng/Documents/html/style.css",
+		"/Users/ericzeng/Documents/workspace_python/final/final.sublime-project",
+		"/Users/ericzeng/Documents/html/index.html",
+		"/Users/ericzeng/Documents/html/html_thing.sublime-project",
+		"/Users/ericzeng/Documents/workspace_python/hw07/hw7.py",
+		"/Users/ericzeng/Documents/workspace_python/hw06/hw6.py",
+		"/Users/ericzeng/Documents/workspace_python/final/README.txt",
+		"/Users/ericzeng/Documents/workspace_python/final/questions.py",
+		"/Users/ericzeng/Documents/workspace_python/final/city.py",
+		"/Users/ericzeng/Documents/tOne.html",
+		"/Users/ericzeng/Documents/workspace_python/hw10/hw10.py",
+		"/Users/ericzeng/Documents/workspace_python/hw04/hw4.py",
+		"/Users/ericzeng/Documents/workspace_python/final/__init__.py",
+		"/Users/ericzeng/Documents/workspace_python/hw05/test5.py",
+		"/Users/ericzeng/Documents/workspace_python/hw05/hw5.py",
+		"/Users/ericzeng/Documents/workspace_python/hw04/test4.py",
+		"/Users/ericzeng/Documents/workspace_python/hw09/hw9.py",
+		"/Users/ericzeng/Documents/workspace_python/hw07/test7.py",
+		"/Users/ericzeng/Documents/workspace_python/hw07/guatemala-lake-landscape-travel-400x400.jpg",
+		"/Users/ericzeng/Documents/workspace_python/hw06/test6.py",
+		"/Users/ericzeng/Documents/workspace_python/hw06/emails.txt",
+		"/Users/ericzeng/Documents/workspace_python/hw06/hw6 copy.py",
+		"/Users/ericzeng/Documents/workspace_python/hw03/test3.py",
+		"/Users/ericzeng/Documents/workspace_python/hw03/hw3.py",
+		"/Users/ericzeng/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/ericzeng/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/ericzeng/Documents/workspace_python/wudac_challenge/analysis.py",
+		"/Users/ericzeng/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-build",
+		"/Users/ericzeng/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/ericzeng/Documents/workspace_python/hw01/hw1.py",
+		"/Users/ericzeng/Documents/workspace_python/hw01/test1.py",
+		"/Users/ericzeng/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/ericzeng/Documents/workspace_python/hw01/hw01.sublime-project",
+		"/Users/ericzeng/Documents/workspace_python/hw1.py",
+		"/Users/ericzeng/Documents/workspace_python/test1.py",
+		"/Users/ericzeng/Library/Application Support/Sublime Text 3/Packages/User/untitled"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yes_no",
+			"True",
+			"print",
+			"ret",
+			"print",
+			"  \n",
+			"all",
+			"operator",
+			"snd",
+			"pass",
+			"prime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "loans.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 309.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "waf.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"hw1.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/workspace_python/hw07/hw07.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
